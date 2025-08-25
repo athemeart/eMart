@@ -5,9 +5,9 @@ Author: aThemeArt
 Author URI: https://athemeart.com/
 Description: Share your online store with confidence and ease using the Emart WordPress eCommerce theme. Bold presentation and smooth transitions keep the page alive. This high energy layout moves the eyes from one section to the next. Your store will represent your product in a high energy and enthusiastic way. Well organized stores are easy to shop. By using layouts and colors that are bold and match your brand you will find returning customers as well as new ones. Building with Elementor is fast and seamless. This allows you to make a store that represents the best of your store. Your own images and slider can be dropped into the layouts for the best effect. Product pages that share details and descriptions make it easy for customers to find what they are looking for. It integrates  the industry standard WooCommerce e-commerce plugin, a wonderful  solution for all your online commerce needs, which allows your users to  browse your product catalogs in easy but stylish grace, add items to  their shopping carts intuitively, and proceed to checkout and make  payments, all right off your website. Full Demo:  https://demo.athemeart.com/emart/demo-1/
 Requires at least: 5.0
-Tested up to: 5.8.1
+Tested up to: 6.8.1
 Requires PHP: 7.0
-Version: 1.2.2
+Version: 1.2.9
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 Text Domain: emart-shop
@@ -2298,13 +2298,13 @@ body.single .entry-title{
 .content-wrap .more-link a.link-btn{
 	text-decoration: none;
 }
-.u-column1.col-1,
+/*.u-column1.col-1,
 .u-column2.col-2,
 #customer_login .col-1,
 #customer_login .col-2{
 	max-width: 50%!important;
 	float: left!important;
-}
+}*/
 /*------------------ Patterns---------------------*/
 .wc-block-components-quantity-selector input.wc-block-components-quantity-selector__input{
 	min-height: 30px!important;
